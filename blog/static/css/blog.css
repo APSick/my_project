@@ -10,8 +10,7 @@ text-align: center;
 padding: 20px 20px 20px 40px;
 margin-top: 0;
 }
-.page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:a
-ctive {
+.page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
 color: #b22222;
 font-size: 36pt;
 text-decoration: none;
